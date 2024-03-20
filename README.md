@@ -27,3 +27,10 @@ Let's celebrate our feline friends together!
 ---
 
 *Are you interested in contributing or modifying this project? Please feel free to fork and play around. Any improvements or creative uses are always welcome!*
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
